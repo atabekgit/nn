@@ -13,3 +13,5 @@ employee = {
     name:"John"
 }
 
+var sums:number = addNumbers(10,25)
+console.log(sums)
